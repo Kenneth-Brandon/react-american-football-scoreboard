@@ -13,7 +13,7 @@ function App() {
           <div className="home">
             <h2 className="home__name">Lions</h2>
 
-            {/* TODO STEP 3 - We need to change the hardcoded values in these divs to accept dynamic values from our state. */}
+            {/* TODO STEP 3 - We need to change the hard-coded values in these divs to accept dynamic values from our state. */}
 
             <div className="home__score">32</div>
           </div>
